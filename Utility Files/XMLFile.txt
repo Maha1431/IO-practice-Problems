@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDemo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Demo>
+    <StudentId>1</StudentId>
+    <StudentName>Rohan</StudentName>
+    <StudentCity>Bangalore</StudentCity>
+    <StudentEmail>rohan.r@gmaoil.com</StudentEmail>
+  </Demo>
+  <Demo>
+    <StudentId>2</StudentId>
+    <StudentName>Ravi</StudentName>
+    <StudentCity>Mumbai</StudentCity>
+    <StudentEmail>Ravi00@gmail.com</StudentEmail>
+  </Demo>
+</ArrayOfDemo>
